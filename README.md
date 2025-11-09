@@ -223,11 +223,10 @@ BardoQuant was originally developed for **Bardo Notes for People**, a secure not
 - Privacy-focused design
 - No data collection
 
-**Download:** [Bardo Notes for People on Google Play](https://play.google.com/store/apps)
+**Download:** [Bardo Notes for People on Google Play](https://play.google.com/store/apps/details?id=com.typexai.bardo)
 
 **Version History:**
 - **Bardo 1.1 Beta** - BardoQuant v2.0 with Kyber768 released
-- **Bardo 1.0** - Initial release with multi-layer encryption
 
 ## 🧪 Testing
 
@@ -266,10 +265,6 @@ class BardoQuantTest {
 - **Gson** 2.10.1+ (JSON serialization)
 - **Kotlinx Coroutines** 1.7.3+ (optional, for async operations)
 
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
 ### Development Setup
 
 ```bash
@@ -281,10 +276,6 @@ cd bardo-quant
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🔐 Security Policy
-
-Please see [SECURITY.md](SECURITY.md) for information about reporting security vulnerabilities.
 
 ## 📚 Documentation
 
@@ -374,12 +365,13 @@ A: Yes, encrypted data is JSON-formatted and can be transferred between systems.
 ## 📧 Contact
 
 For questions, issues, or collaboration opportunities:
-- GitHub Issues: [Report an issue](https://github.com/yourusername/bardo-quant/issues)
-- Email: security@bardoquant.io
+
+- Email: typexai@proton.me
 
 ---
 
 **Made with ❤️ by the BardoQuantum Security Team**
 
 *Protecting your data in the post-quantum era.*
+
 
