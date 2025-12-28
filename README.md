@@ -1,4 +1,4 @@
-BardoQuant Encryption
+Bardo Quant Encryption
 
 A powerful post-quantum cryptography encryption library combining CRYSTALS-Kyber768 with multi-layer symmetric encryption.
 
@@ -163,8 +163,11 @@ Acknowledgments
 - CRYSTALS-Kyber team for the KEM algorithm
 - All contributors and users of Bardo Notes for People
 
-Contact
+## Contact
 
-For questions, issues, or collaboration: Email typexai@proton.me
+- General: support@bardotypexai.com
+- Legal: legal@bardotypexai.com  
+- DMCA: dmca@bardotypexai.com
+- Partnerships: partners@bardotypexai.com
 
-Made by the BardoQuantum Security Team. Protecting your data in the post-quantum era.
+Made by the TypexAI, TypexEx.
