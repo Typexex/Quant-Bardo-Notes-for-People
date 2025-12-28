@@ -104,10 +104,6 @@ License
 
 This project is licensed under the MIT License.
 
-Security
-
-For security concerns, email typexai@proton.me
-
 Documentation
 
 API Reference
@@ -171,3 +167,4 @@ Acknowledgments
 - Partnerships: partners@bardotypexai.com
 
 Made by the TypexAI, TypexEx.
+
