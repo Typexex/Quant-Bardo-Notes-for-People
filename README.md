@@ -168,3 +168,5 @@ Acknowledgments
 
 Made by the TypexAI, TypexEx.
 
+(The encryption is outdated and not secure enough. In Bardo 1.0, the encryption protocol will be replaced with a more reasonable one)
+
